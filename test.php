@@ -3,4 +3,6 @@
 
 phpinfo();
 
+echo "From Master";
+
 ?>
